@@ -34,7 +34,7 @@ button {
 button.deleteButton {
   margin-left: 10px;
   background-color: black;
-  color: whitesmoke;
+  color: white;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -50,6 +50,9 @@ ul {
   gap: 10px; /* Spacing between grid items */
   width: 100%;
   background-color: lightgrey;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 4px;
 }
 
 li {
@@ -58,7 +61,8 @@ li {
   padding: 10px;
   text-align: center;
   border-radius: 4px;
-  background-color: antiquewhite;
+  background-color: white;
+  border: 2px solid black;
 }
 
 
